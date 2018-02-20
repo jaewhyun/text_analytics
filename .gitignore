@@ -1,0 +1,8 @@
+bin/
+Data*/
+lib/
+*.csv
+.settings/
+.project
+.DS_Store
+.classpath
